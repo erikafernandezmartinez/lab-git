@@ -1,2 +1,3 @@
-echo -e "* Este es un archivo de ejemplo.\n**\nEstas tres primeras líneas estaban escritas inicialmente" > ejemplo.txt
+echo -e "* Este es un archivo de ejemplo.\n**\nEstas tres primeras líneas estaban escritas inicialmente. 
+Esta es la copia de GitHub." > ejemplo.txt
 
