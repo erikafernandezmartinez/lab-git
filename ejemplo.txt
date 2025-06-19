@@ -1,0 +1,2 @@
+echo -e "* Este es un archivo de ejemplo.\n**\nEstas tres primeras líneas estaban escritas inicialmente" > ejemplo.txt
+
